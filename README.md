@@ -9,6 +9,7 @@ Source: https://doi.org/10.1016/j.dib.2020.106583
 
 ## Methodology
 ![Diagram drawio](https://github.com/assemmkhalil/HotelCustomerSegmentation/assets/126206911/d4e8c4c0-e662-4ab7-ae89-2c47dbe51a1b)
+Tools: Python & Power BI
 
 ## Findings
 ![Segments1](https://github.com/assemmkhalil/HotelCustomerSegmentation/assets/126206911/a18b7757-8b85-4bea-90c7-96f6e47e8857)
