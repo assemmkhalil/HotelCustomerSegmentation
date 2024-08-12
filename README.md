@@ -17,6 +17,7 @@ Tools: Python & Power BI
 ![Dashboard 2](https://github.com/assemmkhalil/HotelCustomerSegmentation/assets/126206911/7e3185c8-dc4d-4f23-a589-dd0813285cbd)
 
 ## Recommendations
+[The Presentation](https://github.com/assemmkhalil/HotelCustomerSegmentation/blob/main/Presentation.pdf)
 #### Champions:
 * The hotel administration should capitalize on the opportunities presented by their willingness to spend more than other customers by designing exclusive loyalty programs and new service introductions to incentivize repeat visits and higher spending. This could include tailored promotions, premium offers, and diverse luxury services.
 * The hotel could leverage personalized communication channels, such as email marketing, to deliver targeted offers, highlight exclusive experiences, and acknowledge birthdays or special occasions, which would nurture relationships with Champions.
